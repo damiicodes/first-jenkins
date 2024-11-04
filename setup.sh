@@ -5,6 +5,7 @@ ls
 ls
 
 touch file.txt
+touch file2.txt
 
 if [ -f "file.txt" ]; then
   echo "File exists"
